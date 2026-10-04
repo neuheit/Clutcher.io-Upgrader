@@ -2,7 +2,7 @@
 
 An upgrader (upgrader.pro style) for clutcher.io using your real skins and coins. Client-side only.
 
-## Install (players)
+## Install 
 1. Install the Tampermonkey extension.
 2. Open this link and click **Install** (small loader, always runs the latest version from GitHub):
    `https://raw.githubusercontent.com/neuheit/Clutcher.io-Upgrader/main/clutcher-upgrader-loader.user.js`
