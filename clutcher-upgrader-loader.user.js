@@ -47,3 +47,4 @@
     if (!started) run(t);   // erster Start ohne Cache
   }).catch(e => console.warn('[Upgrader loader] Download fehlgeschlagen:', e.message || e));
 })();
+// hi this is an easter egg!
